@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+spacy
+reportlab
+transformers
+torch
+pandas
+pydub
